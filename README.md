@@ -1,3 +1,7 @@
+**⚠️ Legacy, not maintained anymore. Check [opentosca-docker repo](https://github.com/OpenTOSCA/opentosca-docker) for recent developments. ⚠️**
+
+----
+
 # opentosca-dockerfiles
 
 Dockerfiles for running the entire OpenTOSCA stack.
